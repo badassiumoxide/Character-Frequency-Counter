@@ -4,11 +4,9 @@ A php application where you give a string as an input and in return the applicat
 
 Screenshots
 ========================
-<p>
-![alt text](screenshots/Screenshot1.png "Input")
-![alt text](screenshots/Screenshot2.png "Ouput 1")
-![alt text](screenshots/Screenshot3.png "Onput 2")
-</p>
+<img align="left" align="center" src="screenshots/Screenshot1.png">
+<img align="left" align="center" src="screenshots/Screenshot2.png">
+<img align="left" align="center" src="screenshots/Screenshot3.png">
 
 Feedback
 ========================
