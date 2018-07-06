@@ -1,0 +1,18 @@
+CHARACTER COUNT
+a 1
+w 1
+r 1
+y 1
+u 1
+H 2
+e 2
+l 2
+o 3
+  4
+
+STRING COUNT
+Hello 1
+How 1
+are 1
+you 1
+ 1
