@@ -4,9 +4,8 @@ A php application where you give a string as an input and in return the applicat
 
 Screenshots
 ========================
-![alt text](screenshots/Screenshot1.png "Input")
-![alt text](screenshots/Screenshot2.png "Output 1")
-![alt text](screenshots/Screenshot3.png "Output 2")
+<img src="screenshots/Screenshot1.png" align="center">
+
 
 Feedback
 ========================
